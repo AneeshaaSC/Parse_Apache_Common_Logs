@@ -1,0 +1,331 @@
+{
+  "2017": {
+    "November": {
+      "non_ascii": 0,
+      "total": 78,
+      "success": 60,
+      "percent": 76.92307692307693,
+      "language": {
+        "English": {
+          "mean_MB": 62.50781600903242,
+          "stddev_MB": 0,
+          "total_GB": 4.761337547563016
+        },
+        "Greek": {
+          "mean_MB": 36.812740680498955,
+          "stddev_MB": 0,
+          "total_GB": 2.8040954815223813
+        },
+        "Latin": {
+          "mean_MB": 22.01799584657718,
+          "stddev_MB": 0,
+          "total_GB": 1.6771520273759961
+        },
+        "French": {
+          "mean_MB": 11.920142296033028,
+          "stddev_MB": 0,
+          "total_GB": 0.9079795889556408
+        },
+        "Thai": {
+          "mean_MB": 29.797279076698498,
+          "stddev_MB": 0,
+          "total_GB": 2.2697146171703935
+        },
+        "German": {
+          "mean_MB": 29.075252410693047,
+          "stddev_MB": 0,
+          "total_GB": 2.2147164922207594
+        },
+        "Korean": {
+          "mean_MB": 26.72956547370324,
+          "stddev_MB": 0,
+          "total_GB": 2.036041120067239
+        },
+        "Minangkabou": {
+          "mean_MB": 30.45417987383329,
+          "stddev_MB": 0,
+          "total_GB": 2.319751982577145
+        },
+        "Turkish": {
+          "mean_MB": 23.685479090763973,
+          "stddev_MB": 0,
+          "total_GB": 1.804167352616787
+        },
+        "Mandarin": {
+          "mean_MB": 27.527374194218563,
+          "stddev_MB": 0,
+          "total_GB": 2.096811706200242
+        },
+        "Burmese": {
+          "mean_MB": 24.330493670243484,
+          "stddev_MB": 0,
+          "total_GB": 1.8532993225380778
+        }
+      }
+    },
+    "December": {
+      "non_ascii": 2,
+      "total": 310,
+      "success": 227,
+      "percent": 73.22580645161291,
+      "language": {
+        "Minangkabou": {
+          "mean_MB": 12.656166968807097,
+          "stddev_MB": 0,
+          "total_GB": 3.831456797197461
+        },
+        "Greek": {
+          "mean_MB": 19.427649131897958,
+          "stddev_MB": 0,
+          "total_GB": 5.881417217664421
+        },
+        "Mandarin": {
+          "mean_MB": 23.437403718886838,
+          "stddev_MB": 0,
+          "total_GB": 7.095307766459882
+        },
+        "Burmese": {
+          "mean_MB": 20.863314600913757,
+          "stddev_MB": 0,
+          "total_GB": 6.316042506136
+        },
+        "English": {
+          "mean_MB": 36.267661962201515,
+          "stddev_MB": 0,
+          "total_GB": 10.97946797683835
+        },
+        "German": {
+          "mean_MB": 21.439684295654295,
+          "stddev_MB": 0,
+          "total_GB": 6.490529425442219
+        },
+        "Turkish": {
+          "mean_MB": 16.938906131252164,
+          "stddev_MB": 0,
+          "total_GB": 5.127989160828292
+        },
+        "Korean": {
+          "mean_MB": 21.142184635900684,
+          "stddev_MB": 0,
+          "total_GB": 6.4004660518839955
+        },
+        "Latin": {
+          "mean_MB": 14.969772741871495,
+          "stddev_MB": 0,
+          "total_GB": 4.5318647949025035
+        },
+        "French": {
+          "mean_MB": 17.94325333564512,
+          "stddev_MB": 0,
+          "total_GB": 5.432039584033191
+        },
+        "Klingon": {
+          "mean_MB": 10.29762898106729,
+          "stddev_MB": 0,
+          "total_GB": 3.1174462735652924
+        },
+        "Thai": {
+          "mean_MB": 14.471840098596388,
+          "stddev_MB": 0,
+          "total_GB": 4.381123467348516
+        }
+      }
+    }
+  },
+  "2018": {
+    "February": {
+      "non_ascii": 0,
+      "total": 261,
+      "success": 195,
+      "percent": 74.71264367816092,
+      "language": {
+        "French": {
+          "mean_MB": 20.696277439365897,
+          "stddev_MB": 0,
+          "total_GB": 5.275125402025878
+        },
+        "English": {
+          "mean_MB": 42.676989540743186,
+          "stddev_MB": 0,
+          "total_GB": 10.877631123177707
+        },
+        "Turkish": {
+          "mean_MB": 15.437690066195083,
+          "stddev_MB": 0,
+          "total_GB": 3.9348018625751138
+        },
+        "Thai": {
+          "mean_MB": 27.951133220131826,
+          "stddev_MB": 0,
+          "total_GB": 7.124263447709382
+        },
+        "Greek": {
+          "mean_MB": 26.433576328087582,
+          "stddev_MB": 0,
+          "total_GB": 6.737464278936386
+        },
+        "Mandarin": {
+          "mean_MB": 19.82691427574304,
+          "stddev_MB": 0,
+          "total_GB": 5.053539673797786
+        },
+        "German": {
+          "mean_MB": 21.878350020368437,
+          "stddev_MB": 0,
+          "total_GB": 5.57641538605094
+        },
+        "Burmese": {
+          "mean_MB": 18.22639312963376,
+          "stddev_MB": 0,
+          "total_GB": 4.64559434261173
+        },
+        "Klingon": {
+          "mean_MB": 19.616482975839197,
+          "stddev_MB": 0,
+          "total_GB": 4.999904352240264
+        },
+        "Minangkabou": {
+          "mean_MB": 16.552271207173664,
+          "stddev_MB": 0,
+          "total_GB": 4.218889438547194
+        },
+        "Korean": {
+          "mean_MB": 13.878637609810665,
+          "stddev_MB": 0,
+          "total_GB": 3.53742618765682
+        },
+        "Latin": {
+          "mean_MB": 14.00360722742775,
+          "stddev_MB": 0,
+          "total_GB": 3.569278795272112
+        }
+      }
+    },
+    "January": {
+      "non_ascii": 0,
+      "total": 334,
+      "success": 250,
+      "percent": 74.8502994011976,
+      "language": {
+        "Minangkabou": {
+          "mean_MB": 20.526931976843738,
+          "stddev_MB": 0,
+          "total_GB": 6.695307890884578
+        },
+        "Latin": {
+          "mean_MB": 13.928886102345176,
+          "stddev_MB": 0,
+          "total_GB": 4.543210896663368
+        },
+        "Klingon": {
+          "mean_MB": 22.036052681014922,
+          "stddev_MB": 0,
+          "total_GB": 7.187540620565414
+        },
+        "Greek": {
+          "mean_MB": 16.757890924008308,
+          "stddev_MB": 0,
+          "total_GB": 5.465952703729272
+        },
+        "German": {
+          "mean_MB": 20.147178935433576,
+          "stddev_MB": 0,
+          "total_GB": 6.5714431293308735
+        },
+        "Korean": {
+          "mean_MB": 15.09685172577818,
+          "stddev_MB": 0,
+          "total_GB": 4.924168433994055
+        },
+        "English": {
+          "mean_MB": 34.238569236801055,
+          "stddev_MB": 0,
+          "total_GB": 11.16765832528472
+        },
+        "Mandarin": {
+          "mean_MB": 19.777138832800404,
+          "stddev_MB": 0,
+          "total_GB": 6.450746455229819
+        },
+        "French": {
+          "mean_MB": 24.73557145866805,
+          "stddev_MB": 0,
+          "total_GB": 8.068047721870244
+        },
+        "Turkish": {
+          "mean_MB": 14.1105261305849,
+          "stddev_MB": 0,
+          "total_GB": 4.6024567652493715
+        },
+        "Burmese": {
+          "mean_MB": 22.290745635232526,
+          "stddev_MB": 0,
+          "total_GB": 7.270614298991859
+        },
+        "Thai": {
+          "mean_MB": 11.142490623953814,
+          "stddev_MB": 0,
+          "total_GB": 3.6343670589849353
+        }
+      }
+    },
+    "March": {
+      "non_ascii": 0,
+      "total": 17,
+      "success": 13,
+      "percent": 76.47058823529412,
+      "language": {
+        "Mandarin": {
+          "mean_MB": 7.509038644678452,
+          "stddev_MB": 0,
+          "total_GB": 0.12466177437454462
+        },
+        "Korean": {
+          "mean_MB": 0.0,
+          "stddev_MB": 0,
+          "total_GB": 0.0
+        },
+        "Burmese": {
+          "mean_MB": 25.378191050361185,
+          "stddev_MB": 0,
+          "total_GB": 0.42131762485951185
+        },
+        "German": {
+          "mean_MB": 0.13275797226849725,
+          "stddev_MB": 0,
+          "total_GB": 0.0022039897739887238
+        },
+        "Turkish": {
+          "mean_MB": 0.0,
+          "stddev_MB": 0,
+          "total_GB": 0.0
+        },
+        "Greek": {
+          "mean_MB": 1.5626451267915613,
+          "stddev_MB": 0,
+          "total_GB": 0.02594235073775053
+        },
+        "Minangkabou": {
+          "mean_MB": 32.281356138341565,
+          "stddev_MB": 0,
+          "total_GB": 0.5359209515154362
+        },
+        "French": {
+          "mean_MB": 0.0,
+          "stddev_MB": 0,
+          "total_GB": 0.0
+        },
+        "Latin": {
+          "mean_MB": 0.0,
+          "stddev_MB": 0,
+          "total_GB": 0.0
+        },
+        "Klingon": {
+          "mean_MB": 30.861570975359747,
+          "stddev_MB": 0,
+          "total_GB": 0.5123502993956208
+        }
+      }
+    }
+  }
+}
